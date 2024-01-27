@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2023-12-06T05:54:54.810Z",
+      "notes": "dsdsd",
+      "position": {
+        "lat": "70.25945200030641",
+        "lng": "-34.45312500000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Qikiqtaaluk Region",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2023-12-06T07:50:45.611Z",
+      "notes": "sadad",
+      "position": {
+        "lat": "60.1524422143808",
+        "lng": "-79.62890625000001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Saint Paul",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-12-08T13:26:26.727Z",
+      "notes": "mago, amay putki miara lal banayce\n",
+      "position": {
+        "lat": "44.96479793033104",
+        "lng": "-93.1201171875"
+      },
+      "id": 3
+    }
+  ]
+}
